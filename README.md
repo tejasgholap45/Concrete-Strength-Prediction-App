@@ -61,9 +61,13 @@ Users can easily input concrete mix details, and the app instantly provides a st
 
 Concrete-Strength-Prediction-App/
 │
+
 ├── app.py # Streamlit web app
+
 ├── model.pkl # Trained XGBoost model
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Documentation
 
 ---
@@ -105,8 +109,7 @@ streamlit run app.py
 ## 🌟 **Screenshots (Optional)**
 
 ```
-<img width="1920" height="925" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/da525c37-d144-4a40-afdb-3426835b1750" />
-
+https://github.com/tejasgholap45/Concrete-Strength-Prediction-App/blob/main/Screenshot%20(16).png
 📊 Prediction Result  
 ```
 
