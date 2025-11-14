@@ -109,7 +109,10 @@ streamlit run app.py
 ## 🌟 **Screenshots (Optional)**
 
 ```
-https://github.com/tejasgholap45/Concrete-Strength-Prediction-App/blob/main/Screenshot%20(16).png
+## 📸 Screenshot
+
+![App Screenshot](https://raw.githubusercontent.com/tejasgholap45/Concrete-Strength-Prediction-App/main/Screenshot%20(16).png)
+
 📊 Prediction Result  
 ```
 
