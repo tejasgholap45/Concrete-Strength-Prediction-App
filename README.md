@@ -2,8 +2,7 @@
 
 [![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)  
-[![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/en/stable/)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/en/stable/)    
 [![Status](https://img.shields.io/badge/Deployed-Live-success?logo=streamlit)](https://concrete-strength-prediction-app-tejasgholap.streamlit.app/)
 
 ---
@@ -106,7 +105,7 @@ streamlit run app.py
 ## 🌟 **Screenshots (Optional)**
 
 ```
-<img width="1920" height="925" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/20bb9319-6d6d-4982-8564-c37a8f979380" />
+<img width="1920" height="925" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/da525c37-d144-4a40-afdb-3426835b1750" />
 
 📊 Prediction Result  
 ```
