@@ -105,11 +105,9 @@ streamlit run app.py
 
 ## 🌟 **Screenshots (Optional)**
 
-Add your app screenshots here after deployment 👇
-Example:
-
 ```
-📸 Home Page  
+<img width="1920" height="925" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/20bb9319-6d6d-4982-8564-c37a8f979380" />
+
 📊 Prediction Result  
 ```
 
