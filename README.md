@@ -97,24 +97,13 @@ streamlit run app.py
 ✉️ [tejasgholap45@gmail.com](mailto:tejasgholap45@gmail.com)
 
 ---
-
+```
+```
 ## ❤️ **Acknowledgements**
 
 * [Kaggle - Yeh Concrete Dataset](https://www.kaggle.com/datasets/maajdl/yeh-concret-data)
 * [Streamlit](https://streamlit.io/) for enabling effortless ML app deployment
 * [XGBoost](https://xgboost.readthedocs.io/) for its robust regression capabilities
-
----
-
-## 🌟 **Screenshots (Optional)**
-
-```
-## 📸 Screenshot
-
-![App Screenshot](https://raw.githubusercontent.com/tejasgholap45/Concrete-Strength-Prediction-App/main/Screenshot%20(16).png)
-
-📊 Prediction Result  
-```
 
 ---
 
